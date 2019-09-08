@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convivio.API", "Convivio.API\Convivio.API.csproj", "{E42C7835-3D4D-49F0-93FC-D4EC3A571C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvivioAPI.UnitTest", "ConvivioAPI.UnitTest\ConvivioAPI.UnitTest.csproj", "{5AD56C15-4326-4DA2-8958-157B25FDB5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convivio.API.Entities", "Convivio.API.Entities\Convivio.API.Entities.csproj", "{07E08264-51EC-4A5A-9B51-1420EE83C8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convivio.API.Services", "Convivio.API.Services\Convivio.API.Services.csproj", "{08F9117E-EE9D-4DA3-B286-E0AC542D5A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convivio.API.Interfaces", "Convivio.API.Interfaces\Convivio.API.Interfaces.csproj", "{2FD344AF-756C-420A-8F65-873FC104DDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42C7835-3D4D-49F0-93FC-D4EC3A571C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42C7835-3D4D-49F0-93FC-D4EC3A571C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42C7835-3D4D-49F0-93FC-D4EC3A571C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42C7835-3D4D-49F0-93FC-D4EC3A571C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD56C15-4326-4DA2-8958-157B25FDB5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD56C15-4326-4DA2-8958-157B25FDB5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD56C15-4326-4DA2-8958-157B25FDB5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD56C15-4326-4DA2-8958-157B25FDB5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E08264-51EC-4A5A-9B51-1420EE83C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E08264-51EC-4A5A-9B51-1420EE83C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E08264-51EC-4A5A-9B51-1420EE83C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E08264-51EC-4A5A-9B51-1420EE83C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F9117E-EE9D-4DA3-B286-E0AC542D5A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F9117E-EE9D-4DA3-B286-E0AC542D5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F9117E-EE9D-4DA3-B286-E0AC542D5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F9117E-EE9D-4DA3-B286-E0AC542D5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD344AF-756C-420A-8F65-873FC104DDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD344AF-756C-420A-8F65-873FC104DDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD344AF-756C-420A-8F65-873FC104DDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD344AF-756C-420A-8F65-873FC104DDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55497C08-B4C6-46D0-97CC-41F9E17F22C8}
+	EndGlobalSection
+EndGlobal
