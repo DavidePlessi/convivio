@@ -14,4 +14,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.7.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Convivio.API.Services\Convivio.API.Services.csproj" />
+  </ItemGroup>
+
 </Project>
